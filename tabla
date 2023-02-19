@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Grupo de Clase</h2>
+
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Apellido</th>
+    <th>Grupo</th>
+  </tr>
+  <tr>
+    <td>Alfreds</td>
+    <td>Anders</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Francisco</td>
+    <td>Gomez</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Ernest</td>
+    <td>Roland</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Lorena</td>
+    <td>Sanchez</td>
+    <td>3</td>
+  </tr>
+ 
+  
+</table>
+
+</body>
+</html>
