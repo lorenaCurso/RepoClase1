@@ -49,7 +49,11 @@ tr:nth-child(even) {
     <td>Sanchez</td>
     <td>3</td>
   </tr>
- 
+  <tr>
+    <td>Nuevo</td>
+    <td>Nuevo2</td>
+    <td>2</td>
+  </tr>
   
 </table>
 
